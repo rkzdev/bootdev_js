@@ -352,6 +352,8 @@
 // Prints: undefined undefined
 // because the parent scope (the scope outside of the author object)
 // never defined .firstName and .lastName propeties
+// arrow functtion can never be a method (this inside an arrow function is
+// equivalent to the global object)
 
 // So, the big takeaway is thatt when you use the non-fat-arrow function syntax,
 // you sometimes get a different this object, depending on how the function (or
