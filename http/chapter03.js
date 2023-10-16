@@ -1,7 +1,7 @@
 // UNIFORM RESOURCE IDENTIFIERS
 
 // A URI, or Uniform Resource Identifier, is a unique character sequence that
-// identifies a resource that tis (almost always) accessed via the internet.
+// identifies a resource that its (almost always) accessed via the internet.
 
 // Just like javascript has syntax rules, so do URIs. These rules help ensure
 // uniformity so that any program can interpet the meaning of the URI in the same
